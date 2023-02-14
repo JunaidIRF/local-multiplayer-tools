@@ -5,4 +5,4 @@
 * **MultipleKeyboardRemap** (intercept [requires Interception]): Remap Keybinds for specific keyboards so you can remap to use same keys for each player for games which allow multiple keyboards to play local multiplayer.
 
 ## Other Local Multiplayer Tools:
-* [Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus/releases "Nucleus Co-op")
+* [Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus/releases "Nucleus Co-op"): Scriptable Version of ProtonInput for Splitscreen (Latest UniversalSplitScreen or ProtonInput Solution)
