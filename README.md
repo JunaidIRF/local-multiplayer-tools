@@ -7,3 +7,4 @@
 ## Other Local Multiplayer Tools:
 * [**Nucleus Co-op**](https://github.com/SplitScreen-Me/splitscreenme-nucleus/releases "Nucleus Co-op"): Scriptable Version of ProtonInput for Splitscreen (Latest UniversalSplitScreen or ProtonInput Solution)
 * [**x360ce**](https://github.com/x360ce/x360ce "Xbox 360 Controller Emulator"): x360ce allows your controller (gamepad, joystick, wheel, etc.) to function as an Xbox 360 controller. For example, it lets you play games such as "Grand Theft Auto" (GTA) or "Mafia II" using a Logitech Wheel.
+* [**Keysticks**](https://keysticks.net/default.aspx "Keysticks"): Xbox Controller to Keyboard/Mouse.
